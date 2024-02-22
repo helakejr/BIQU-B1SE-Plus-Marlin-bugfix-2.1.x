@@ -1,4 +1,4 @@
-# BIQU-B1SE-Plus-Marlin-2.1.x
+# Marlin-bugfix-2.1.x.BIQU-B1SE-Plus
 Marlin 2.1.x firmware Build for the BIQU B1 SE Plus
 
 Flash Marlin to BIQU B1 SE Plus
