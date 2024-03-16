@@ -1,5 +1,5 @@
 # Marlin-bugfix-2.1.x.BIQU-B1SE-Plus
-Marlin 2.1.x firmware Build for the BIQU B1 SE Plus
+Marlin bugfix-2.1.x 2/18/2024 firmware Build for the BIQU B1 SE Plus
 
 1. Flash Marlin to BIQU B1 SE Plus
 -Copy firmware.bin to SD card
